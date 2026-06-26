@@ -52,11 +52,11 @@ This Power BI dashboard provides an in-depth analysis of Lionel Messi's football
 
 ### Career Overview
 
-![Career Overview](Screenshots/Page1_Career_Overview.png)
+![Career Overview](Messi-Career-Analytics-Dashboard/Screenshots/Page1.png)
 
 ### Advanced Analytics
 
-![Advanced Analytics](Screenshots/Page2_Advanced_Analytics.png)
+![Advanced Analytics](Messi-Career-Analytics-Dashboard/Screenshots/Page2.png)
 
 ---
 
